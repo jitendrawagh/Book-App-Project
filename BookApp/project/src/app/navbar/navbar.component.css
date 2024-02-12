@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@100;400&family=Caveat&family=Cormorant+SC:wght@700&family=Dosis:wght@200&family=Josefin+Sans&family=Lora&family=Oswald&family=Ubuntu:ital,wght@0,400;0,500;1,400&family=Varela+Round&display=swap');
+#log{
+    height:60px;
+    width:90px;
+    border-radius: 50%;
+    
+}
+.navbar{
+    border-bottom: 5px solid black;
+    padding: 0px;
+    margin: 0px;
+    /* background-color:#e87719; */
+    /* position: fixed;
+    margin-bottom: 40px;
+    overflow: hidden;
+    width: 100%; */
+    /* margin-bottom: 400px;*/
+    /* overflow: hidden;  */
+    
+}
+#logo{
+    height:80px;
+    width:110px;
+}
+.nav-link
+{
+    width: 162px  !important;
+}
+.dropdown-item{
+    font-size: 20px;
+    font-family: 'Courgette', cursive;
+  }
+ul li button{
+    font-size: 19px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    margin:20px;
+    color: black;
+    width:120px;
+}
+ul li a{
+    font-size: 19px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    margin:20px;
+    color: black;
+    width:120px;
+}
+.search-filled{
+    width:200px;
+    height:30px;
+    font-size: 15px;
+    color: black;
+}
+.btn{
+    border:1px solid lightskyblue;
+    height:30px;
+    width:80px;
+   
+    color:lightskyblue;
+    font-size: 13px;
+}
+.btn:hover{
+    background-color: blue;
+    color:white;
+}

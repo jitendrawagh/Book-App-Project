@@ -1,0 +1,10 @@
+server:
+  port: 8999
+  
+eureka:
+  instance:
+    hostname: localhost
+    
+spring:
+  application:
+    name: Api-Gateway

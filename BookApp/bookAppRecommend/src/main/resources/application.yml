@@ -1,0 +1,16 @@
+server:
+  port: 8081
+
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: bookAppDB
+  application:
+    name: Book-App-Recommend
+  
+  
+eureka:
+  instance:
+    hostname: localhost

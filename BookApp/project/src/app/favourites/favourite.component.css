@@ -1,0 +1,24 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgb(11, 11, 12);
+    transition: 0.3s;
+    width: 80%;
+    border-radius: 10px;
+    margin-left: 10%;
+  }
+  .noteCardContainer{
+    padding:50px;
+    margin: 50px;
+  }
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(11, 11, 11, 0.2);
+  }
+  img {
+    border-radius: 5px 5px 0 0;
+  }
+  .button{
+      background-color:blue;
+      height: 30px;
+      width: 200px;
+      font-size: 10px;
+      color: white;
+  }
